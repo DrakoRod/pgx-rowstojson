@@ -8,8 +8,8 @@ Is a simple example to convert a PostgreSQL query rows to json using [pgxv4](htt
 Just clone project and change database connection settings like this: 
 
 ```
-$ git clone 
-
+$ git clone https://github.com/DrakoRod/pgx-rowstojson 
+$ cd pgx-rowstojson/
 ```
 
 Change database connections settings in code
